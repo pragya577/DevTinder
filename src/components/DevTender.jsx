@@ -16,13 +16,13 @@ function DevTender() {
                 </header>
             </div>
 
-            <div className="bg-gradient-to-br from-violet-950 to-black  flex flex-col items-center justify-center gap-6 p-30">
+            <div className="bg-zinc-950 from-violet-950 to-black  flex flex-col items-center justify-center gap-6 p-30">
                 <span><button className="border-purple-950 bg-violet-950 p-2 rounded-3xl text-purple-300">Connect. Code. Collaborate.</button></span>
                 <h1 className=" flex text-5xl font-bold justify-center gap-3 text-amber-50 m-10">Find Your Perfect <span className="text-purple-700">Dev Match</span></h1>
                 <p className="text-gray-400 ">DevTinder connects developers based on skills, interests, and tech stack. Swipe right on your next coding partner, mentor, or collaborator.</p>
                 <div className="flex flex-row gap-5 m-5">
-                    <button className="bg-purple-600 px-3 p-3 rounded-md hover:bg-purple-600">Start Maching</button>
-                    <button className="bg-gray-800 px-3 p-3 rounded-md ">Learn More</button>
+                    <button className="bg-purple-600 px-6 py-4 rounded-md hover:bg-purple-800 ">Start Maching</button>
+                    <button className="bg-gray-800 px-6 py-4  rounded-md ">Learn More</button>
                 </div>
             </div>
 
